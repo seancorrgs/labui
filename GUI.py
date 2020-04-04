@@ -1,4 +1,4 @@
-  GNU nano 4.3                                 GUI.py                                            import os
+import os
 import pyfiglet
 
 
